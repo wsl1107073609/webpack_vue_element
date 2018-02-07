@@ -5,8 +5,7 @@
   "author": "hefeng <he45feng@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --open --hot",
-    "build": "webpack --progress --hide-modules"
+    "dev": "webpack-dev-server --open --hot"
   },
   "dependencies": {
     "element-ui": "^1.2.5",
