@@ -2,7 +2,7 @@
   "name": "vue-webpack-simple-demo",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "hefeng <he45feng@qq.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --open --hot"
